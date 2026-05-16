@@ -4,7 +4,7 @@
 
 <h3 align="center">🎓 Student | Aspiring Software Engineer | 💻 Java & DSA | 🚀 Open Source & AI Enthusiast</h3>
 
-<img align="right" width="350" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration_138676-9487.jpg">
+<img align="right" width="250" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration_138676-9487.jpg">
 
 ---
 
